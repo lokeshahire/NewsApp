@@ -1,0 +1,25 @@
+#results {
+  width: 85%;
+  height: auto;
+  /* border: 1px solid blue; */
+  margin-left: 15%;
+  margin-top: -32%;
+}
+
+#main {
+  display: flex;
+  width: 100%;
+}
+
+#sidebar {
+  width: 200px;
+  height: 500px;
+  /* border: 1px solid red; */
+  padding-right: 30px;
+  background-color: rgb(227, 217, 189);
+}
+#sidebar h3 {
+  cursor: pointer;
+  background-color: teal;
+  padding: 10px;
+}

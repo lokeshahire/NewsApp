@@ -1,0 +1,19 @@
+.box {
+  display: flex;
+  border: 1px solid blue;
+  margin-top: 20px;
+}
+.images {
+  height: 100%;
+  width: 300px;
+}
+.news {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.title {
+  margin: 10px;
+  /* margin-bottom: -20px;
+  padding-top: 20px; */
+}
